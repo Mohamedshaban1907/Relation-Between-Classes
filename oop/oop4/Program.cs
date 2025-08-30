@@ -13,7 +13,7 @@ mgr.ShowData();
 Console.WriteLine("#################################");
 
 Employee refrence = new Manager ("mohamed " , 28 , "It") ;
-refrence.ShowData();// no polymorphism
+refrence.ShowData();// no polymorphism it just make primary key to method to be different 
 
 Console.WriteLine("---------------------");
 
