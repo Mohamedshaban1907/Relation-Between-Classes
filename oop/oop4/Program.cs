@@ -10,9 +10,9 @@ mgr.ShowData();
 
 
 
-Console.WriteLine("#################################3");
+Console.WriteLine("#################################");
 
-Employee refrence = new Manager ("mohamed_No_Poly " , 28 , "It") ;
+Employee refrence = new Manager ("mohamed " , 28 , "It") ;
 refrence.ShowData();// no polymorphism
 
 Console.WriteLine("---------------------");

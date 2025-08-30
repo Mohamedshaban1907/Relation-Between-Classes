@@ -7,7 +7,7 @@ using System.Xml.Linq;
 
 namespace oop4
 {
-    internal class Manager : Employee
+    internal class Manager : Employee  // Inheritance
     {
         public string Department { get; set; }
 
